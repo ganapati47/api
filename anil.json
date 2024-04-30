@@ -1,5 +1,4 @@
-[
-   "link": "https://www.bbc.com/" ,
+{   "link": "https://www.bbc.com/" ,
    "link": "https://en.wikipedia.org/wiki/Main_Page" ,
    "link": "https://www.youtube.com/",
    "link": "https://www.facebook.com/" ,
@@ -18,4 +17,4 @@
    "link": "https://open.spotify.com/" ,
    "link": "https://music.apple.com/us/browse" ,
    "link": "https://www.nytimes.com/" 
-]
+}
