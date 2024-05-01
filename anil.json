@@ -1,17 +1,21 @@
 {
- "success": "https://registry.npmjs.org/@tinyeeahaeybhttp/accepts/-/accepts-2.2.1.tgz" ,
-  "success":  "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.1.tgz" ,
+ "success": [
+   "https://registry.npmjs.org/@tinyeeahaeybhttp/accepts/-/accepts-2.2.1.tgz" ,
+    "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.1.tgz" ,
 
-"success":  "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.2.51.tgz" ,
+ "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.2.51.tgz" ,
 
- "success":  "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.45.tgz" ,
+  "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.45.tgz" ,
+ ]
+,
+  "link": [
+     "https://registry.npmjs.org/@tinyeeahaeybhttp/accepts/-/accepts-2.2.1.tgz" ,
+    "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.1.tgz" ,
 
-  "link": "https://registry.npmjs.org/@tinyeeahaeybhttp/accepts/-/accepts-2.2.1.tgz" ,
-  "link":  "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.1.tgz" ,
+ "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.2.51.tgz" ,
 
-"link":  "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.2.51.tgz" ,
-
- "link":  "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.45.tgz"
+   "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.45.tgz"
+  ]
 }
   
 
