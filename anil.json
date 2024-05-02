@@ -1,16 +1,20 @@
 {
-  "success": 
+  "success": [
     {
+    
       "successlink": "https://registry.npmjs.org/@tinyeeahaeybhttp/accepts/-/accepts-2.2.1.tgz",
       "successlink": "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.1.tgz",
 
       "successlink": "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.2.51.tgz",
 
-     "successlink": "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.45.tgz"
-    }
+     "successlink": "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.45.tgz",
+}
+]
   ,
+
   "link": 
-    {
+    [ 
+      {
       "linkLink": "https://registry.npmjs.org/@tinyeeahaeybhttp/accepts/-/accepts-2.2.1.tgz",
     
       "linkLink": "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.1.tgz",
@@ -18,8 +22,7 @@
       "linkLink": "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.2.51.tgz",
     
       "linkLink": "https://registry.npmjs.org/@tinyhttp/accepts/-/accepts-2.25.45.tgz" 
-    }
+} 
+ ]
 
 }
-
- 
