@@ -1,18 +1,7 @@
 
-  
-"link" : [
-        {
-                "id" : "anil1",
-                "wallpaperlink" : "link1"
-        },
-        {
-                "id" : "anil1",
-                "wallpaperlink" : "link2"
-        },
-        {
-                "id" : "anil1",
-                "wallpaperlink" : "link3"     }
-]
-    
+{
+ "id" : "anil1",
+ "wallpaperlink" : ["link" ,"link1","link2","link3"]
+        }
 
   
