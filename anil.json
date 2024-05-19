@@ -3,15 +3,15 @@
 "link" : [
         {
                 "id" : "anil1",
-                "link" : "link1"
+                "wallpaperlink" : "link1"
         },
         {
                 "id" : "anil1",
-                "link" : "link2"
+                "wallpaperlink" : "link2"
         },
         {
                 "id" : "anil1",
-                "link" : "link3"     }
+                "wallpaperlink" : "link3"     }
 ]
     
 }
