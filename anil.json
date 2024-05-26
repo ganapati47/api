@@ -1,64 +1,38 @@
-
 {
+  "categories": [
+    {
+      "trending": "Johor",
+      "car": "view_johor",
+      "baki": "view_johor1",
+      "flower": "view_johor2",
+      "anime": "view_johor3",
+      "dog": "view_johor4",
+      "cat": "view_johor5",
+      "amoled": "view_johor6",
+      "meterial": "view_johor7"
 
-
-      "wallpaper" :  [
-             
-
-             {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             }, {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             },
-              {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             },
-              {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             },
-              {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             },
-              {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             },
-              {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             },
-              {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             },
-              {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             },
-              {"trending" :"https://w0.peakpx.com/wallpaper/362/897/HD-wallpaper-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-anime-aesthetic-anime-boy-cute-cute-anime-boy-sad-anime-boy.jpg"
-
-
-
-             }
-             
-      ]
-
- 
- 
-        }
-
-  
+    },
+    {
+      "trending": "Johor8",
+      "car": "view_johor9",
+      "baki": "view_johor10",
+      "flower": "view_johor11",
+      "anime": "view_johor12",
+      "dog": "view_johor13",
+      "cat": "view_johor14",
+      "amoled": "view_johor15",
+      "meterial": "view_johor16"
+    },
+    {
+     "trending": "Johor17",
+      "car": "view_johor18",
+      "baki": "view_johor20",
+      "flower": "view_johor21",
+      "anime": "view_johor22",
+      "dog": "view_johor23",
+      "cat": "view_johor24",
+      "amoled": "view_johor25",
+      "meterial": "view_johor26"
+    }
+  ]
+}
