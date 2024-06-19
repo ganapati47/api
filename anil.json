@@ -1,6 +1,4 @@
 {
-  
-    
          "trending": [
           "https://i.pinimg.com/736x/4f/62/d2/4f62d2bc39cb6092fe4dedb978c285c5.jpg",
           "https://w0.peakpx.com/wallpaper/368/441/HD-wallpaper-cute-anime-girl-anime-cat-girl-anime-girl-cartoon-cat-girl-cute-anime.jpg",
@@ -9,47 +7,58 @@
           "https://mfiles.alphacoders.com/101/1012400.png",
           "https://mfiles.alphacoders.com/100/1008863.png",
           "https://mfiles.alphacoders.com/101/1012717.png"
-        ]
+        ],
       
-    ,
+   
 
-
-        "catagory": [
-      {
-        "name": "anime",
+"catagory": [
+      {"name": "anime",
         "url": "https://cdn.pixabay.com/photo/2023/08/13/18/08/woman-8188169_1280.png",
-      
+        "animeurls": [ "https://i.pinimg.com/736x/4f/62/d2/4f62d2bc39cb6092fe4dedb978c285c5.jpg",
+          "https://i.pinimg.com/736x/64/6f/b3/646fb3cdb9d549a729843a69dc804062.jpg",
+          "https://i.pinimg.com/736x/43/60/04/43600492094258243bfebf7ccd14a82d.jpg",
+          "https://i.pinimg.com/736x/43/ca/fb/43cafb3d2a02690ea08d7b0001c93d09.jpg"]
       },
 
-      {
-        "name": "car",
+      {"name": "car",
         "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguoU6Ai083yipzLqclT6rEyARJIiqWcKjb4cN1_LHJyAUscOm0EYyMKit6tCNSp3G2qxIZxvhS96wgS1VdrsUGNTidYH-29BYimR-UU5_PWrklIDT1rNri98p3VrFvtoDLwX2kAYeSjfWzLGirvnto34LjIoMNmDsokb6y0y-kKnY8SIDmZCxj0wS5oQ/w1021-h574-rw/synthwave-car-ai-162023.png",
-       
-        
+        "carurls" : [  "https://i.pinimg.com/736x/5f/b7/90/5fb79002420356d188b151e1ec40dcef.jpg",
+          "https://i.pinimg.com/736x/38/c8/6e/38c86eb987d1ab5cbb969507eb4c6589.jpg",
+          "https://i.pinimg.com/474x/1e/41/5c/1e415c9e71a8c352d71abf63f6f13791.jpg",
+          "https://i.pinimg.com/474x/c4/16/ae/c416aedf75ac7b25c281e03d6eab2f63.jpg"]
       },
 
-      {
-        "name": "bike",
+      { "name": "bike",
         "url": "https://c4.wallpaperflare.com/wallpaper/295/264/47/ktm-bikes-racing-hd-wallpaper-preview.jpg",
+        "bikeurls" : [ "https://i.pinimg.com/236x/5c/b2/13/5cb21392870074efc614cdabae55a826.jpg",
+          "https://i.pinimg.com/236x/1b/7a/32/1b7a3205d1d8bfd21b58ab973a0b68ad.jpg",
+          "https://i.pinimg.com/236x/b8/6c/45/b86c4516be31199f34e7dfbb837081ba.jpg",
+          "https://i.pinimg.com/736x/23/6c/f0/236cf0a4dfc96b05633233a458a09926.jpg"]
        
       },
 
-      {
-        "name": "amoled",
+      {"name": "amoled",
         "url": "https://wallpaperaccess.com/full/2064612.jpg",
-       
-      },
-
-
-      {
-        "name": "sky",
+        "amoledurls" : [ "https://i.pinimg.com/474x/1c/b7/7c/1cb77c882763258cf0e5a9ca262559a9.jpg",
+          "https://i.pinimg.com/474x/cf/27/41/cf274156b0711c13e227bbd859ed355c.jpg",
+          "https://i.pinimg.com/236x/a9/ab/d2/a9abd25a7d2b7368473a2eb72d9f1d8e.jpg",
+          "https://i.pinimg.com/736x/2b/05/5f/2b055f932712ca1f9124b951a6c22d1f.jpg"]
+       },
+      {"name": "sky",
         "url": "https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg",
-       
+        "skyurls" : [ "https://i.pinimg.com/736x/2e/c9/a0/2ec9a0f01e519c7f72fb44a37464d82b.jpg",
+          "https://i.pinimg.com/736x/56/fe/48/56fe48e1e60ff4b828ce1a140fc342e4.jpg",
+          "https://i.pinimg.com/736x/af/87/d2/af87d2506c7e6492a54dce2c3f09a3aa.jpg",
+          "https://i.pinimg.com/564x/53/c3/66/53c366e60ae5c6e30b33d67261a91e5f.jpg"]
       },
+      
        {
         "name": "Game wallpaper",
         "url": "https://motionbgs.com/media/1397/goku-ultra-instinct_2.960x540.mp4",
-       
+       "Gamewallpaperurls" : ["https://i.pinimg.com/736x/48/7a/06/487a06b17b7bd486fbb84e10a6f8323d.jpg",
+          "https://i.pinimg.com/474x/23/9f/7d/239f7df508d6fd4aa6c12dd5b95b46ad.jpg",
+          "https://i.pinimg.com/736x/11/6e/a0/116ea0b994a8dddcca1a11f9016acfc2.jpg",
+          "https://i.pinimg.com/474x/2b/fe/01/2bfe018e9a3cdc5a5bb4db6d952910f5.jpg"]
       }
     ]
   
