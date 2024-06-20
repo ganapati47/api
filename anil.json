@@ -8,39 +8,32 @@
           "https://mfiles.alphacoders.com/100/1008863.png",
           "https://mfiles.alphacoders.com/101/1012717.png"
         ],
-    
       
    
 
 "catagory": [
       {"name": "anime",
-        "url": "https://cdn.pixabay.com/photo/2023/08/13/18/08/woman-8188169_1280.png",
-     
+        "url": "https://cdn.pixabay.com/photo/2023/08/13/18/08/woman-8188169_1280.png"
       },
 
       {"name": "car",
-        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguoU6Ai083yipzLqclT6rEyARJIiqWcKjb4cN1_LHJyAUscOm0EYyMKit6tCNSp3G2qxIZxvhS96wgS1VdrsUGNTidYH-29BYimR-UU5_PWrklIDT1rNri98p3VrFvtoDLwX2kAYeSjfWzLGirvnto34LjIoMNmDsokb6y0y-kKnY8SIDmZCxj0wS5oQ/w1021-h574-rw/synthwave-car-ai-162023.png",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguoU6Ai083yipzLqclT6rEyARJIiqWcKjb4cN1_LHJyAUscOm0EYyMKit6tCNSp3G2qxIZxvhS96wgS1VdrsUGNTidYH-29BYimR-UU5_PWrklIDT1rNri98p3VrFvtoDLwX2kAYeSjfWzLGirvnto34LjIoMNmDsokb6y0y-kKnY8SIDmZCxj0wS5oQ/w1021-h574-rw/synthwave-car-ai-162023.png"
       },
 
       { "name": "bike",
-        "url": "https://c4.wallpaperflare.com/wallpaper/295/264/47/ktm-bikes-racing-hd-wallpaper-preview.jpg",
-       
-       
+        "url": "https://c4.wallpaperflare.com/wallpaper/295/264/47/ktm-bikes-racing-hd-wallpaper-preview.jpg"
       },
 
       {"name": "amoled",
-        "url": "https://wallpaperaccess.com/full/2064612.jpg",
-        
+        "url": "https://wallpaperaccess.com/full/2064612.jpg"
        },
       {"name": "sky",
-        "url": "https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg",
-       
+        "url": "https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg"
       },
       
        {
-        "name": "GameWallpaper",
-        "url": "https://motionbgs.com/media/1397/goku-ultra-instinct_2.960x540.mp4",
-      
+        "name": "Game wallpaper",
+        "url": "https://motionbgs.com/media/1397/goku-ultra-instinct_2.960x540.mp4"
       }
     ]
   
